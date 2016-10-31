@@ -6,7 +6,7 @@ Light Weight ORM which convert Hive Table records on HDFS to an Java object usin
 
 Usage:
 
-Lets assume you have following table in Hive 
+Lets assume you have following table in Hive -
 
 hive> describe student;
 OK
@@ -47,8 +47,6 @@ Using Student Class assuming thrift server is running on machine 10.0.0.1 and po
         String uni;
       }
     }
-
-
 
 This will result in output 
 
